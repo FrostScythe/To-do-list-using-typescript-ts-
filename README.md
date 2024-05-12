@@ -1,4 +1,4 @@
-# New Project
+# To Do List Using typescript
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
